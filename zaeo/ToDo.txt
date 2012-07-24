@@ -1,0 +1,3 @@
+Offene Punkte:
+- Prüfen, ob auf Redirect-Seite Modul oder CE AEO eingebunden ist
+- Test (mit Rewrite, ohne Rewrite, ohne/mit Alias, ohne/mit Sprache)
